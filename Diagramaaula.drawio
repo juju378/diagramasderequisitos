@@ -438,8 +438,32 @@
             <mxPoint x="510" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="L4t82j5CoHo1pLr9jj2V-10" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="L4t82j5CoHo1pLr9jj2V-10" value="tarefas" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="700" y="143" width="200" height="237" as="geometry" />
+        </mxCell>
+        <mxCell id="sucTaZ8ZD6gKDqxddn5M-1" value="nome das tarefas&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="L4t82j5CoHo1pLr9jj2V-10">
+          <mxGeometry x="10" y="37" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sucTaZ8ZD6gKDqxddn5M-2" value="data das tarefas&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="L4t82j5CoHo1pLr9jj2V-10">
+          <mxGeometry x="10" y="85" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sucTaZ8ZD6gKDqxddn5M-3" value="se cumpriu as tarefas&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="L4t82j5CoHo1pLr9jj2V-10">
+          <mxGeometry x="10" y="127" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sucTaZ8ZD6gKDqxddn5M-6" value="tarefas realizadas ou não&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="L4t82j5CoHo1pLr9jj2V-10">
+          <mxGeometry x="10" y="167" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sucTaZ8ZD6gKDqxddn5M-4" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="700" y="350" as="sourcePoint" />
+            <mxPoint x="900" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sucTaZ8ZD6gKDqxddn5M-5" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="260" as="sourcePoint" />
+            <mxPoint x="680" y="260" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
