@@ -367,7 +367,7 @@
         <mxCell id="EF7Yaw-17e6O_zTaQdtn-17" value="marca oque ja fez&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="280" y="850" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="EF7Yaw-17e6O_zTaQdtn-19" value="usuario&amp;nbsp;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#ffcc99;strokeColor=#36393d;" parent="1" vertex="1">
+        <mxCell id="EF7Yaw-17e6O_zTaQdtn-19" value="usuaário" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#ffcc99;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="20" y="800" width="70" height="160" as="geometry" />
         </mxCell>
         <mxCell id="EF7Yaw-17e6O_zTaQdtn-21" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
