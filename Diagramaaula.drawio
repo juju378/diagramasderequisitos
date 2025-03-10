@@ -438,6 +438,9 @@
             <mxPoint x="510" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="L4t82j5CoHo1pLr9jj2V-10" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="143" width="200" height="237" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
