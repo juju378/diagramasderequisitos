@@ -424,7 +424,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="hm9QjY9xYaMmEUB7pcDc" name="Página-6">
-    <mxGraphModel dx="880" dy="460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="878" dy="460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -448,6 +448,9 @@
         </mxCell>
         <mxCell id="L4t82j5CoHo1pLr9jj2V-7" value="endereço de e-mail" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="UtDdqsKEoErDjqp-6krA-1">
           <mxGeometry x="10" y="147" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1pveLMcynN1mQdg6mE3S-18" value="criar senha&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="UtDdqsKEoErDjqp-6krA-1">
+          <mxGeometry x="14" y="175" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="L4t82j5CoHo1pLr9jj2V-4" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -525,7 +528,7 @@
           <mxGeometry y="33" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1pveLMcynN1mQdg6mE3S-14" value="atualizar status&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1pveLMcynN1mQdg6mE3S-1">
-          <mxGeometry x="10" y="70" width="110" height="30" as="geometry" />
+          <mxGeometry y="85" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1pveLMcynN1mQdg6mE3S-5" value="atribuidos&amp;nbsp;" style="swimlane;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="1930" y="150" width="200" height="265" as="geometry" />
