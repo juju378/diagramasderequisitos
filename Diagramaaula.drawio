@@ -428,7 +428,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="UtDdqsKEoErDjqp-6krA-1" value="usuario" style="swimlane;whiteSpace=wrap;html=1;fontStyle=0" parent="1" vertex="1">
+        <mxCell id="UtDdqsKEoErDjqp-6krA-1" value="usuario" style="swimlane;whiteSpace=wrap;html=1;fontStyle=0;fillColor=#cce5ff;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="310" y="143" width="200" height="237" as="geometry" />
         </mxCell>
         <mxCell id="n5o5TeO8I6Dzgie3xvCg-1" value="nome:&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="UtDdqsKEoErDjqp-6krA-1">
@@ -455,7 +455,7 @@
             <mxPoint x="510" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="L4t82j5CoHo1pLr9jj2V-10" value="tarefas" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="L4t82j5CoHo1pLr9jj2V-10" value="tarefas" style="swimlane;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="700" y="143" width="200" height="237" as="geometry" />
         </mxCell>
         <mxCell id="sucTaZ8ZD6gKDqxddn5M-1" value="nome das tarefas&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="L4t82j5CoHo1pLr9jj2V-10">
@@ -491,7 +491,7 @@
             <mxPoint x="1080" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oS59q8iRWq0PK9-SNCpT-2" value="sistema." style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="oS59q8iRWq0PK9-SNCpT-2" value="sistema." style="swimlane;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="1080" y="143" width="250" height="230" as="geometry" />
         </mxCell>
         <mxCell id="oS59q8iRWq0PK9-SNCpT-4" value="enviar notificação" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="oS59q8iRWq0PK9-SNCpT-2">
