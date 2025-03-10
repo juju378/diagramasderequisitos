@@ -293,7 +293,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="EF7Yaw-17e6O_zTaQdtn-1" value="usuario&amp;nbsp;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+        <mxCell id="EF7Yaw-17e6O_zTaQdtn-1" value="usuario&amp;nbsp;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#ffcc99;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="30" y="70" width="80" height="180" as="geometry" />
         </mxCell>
         <mxCell id="EF7Yaw-17e6O_zTaQdtn-2" value="efetuar login" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
@@ -331,7 +331,7 @@
             <mxPoint x="70" y="288" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EF7Yaw-17e6O_zTaQdtn-8" value="sistema&amp;nbsp;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+        <mxCell id="EF7Yaw-17e6O_zTaQdtn-8" value="sistema&amp;nbsp;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#ffcc99;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="50" y="430" width="80" height="150" as="geometry" />
         </mxCell>
         <mxCell id="EF7Yaw-17e6O_zTaQdtn-9" value="mostrar aonde colocar as tarefas&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
@@ -367,10 +367,7 @@
         <mxCell id="EF7Yaw-17e6O_zTaQdtn-17" value="marca oque ja fez&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="280" y="850" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="EF7Yaw-17e6O_zTaQdtn-18" value="marca as que ja fez&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="280" y="960" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="EF7Yaw-17e6O_zTaQdtn-19" value="usuario&amp;nbsp;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+        <mxCell id="EF7Yaw-17e6O_zTaQdtn-19" value="usuario&amp;nbsp;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#ffcc99;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="20" y="800" width="70" height="160" as="geometry" />
         </mxCell>
         <mxCell id="EF7Yaw-17e6O_zTaQdtn-21" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
@@ -391,7 +388,7 @@
             <mxPoint x="240" y="890" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EF7Yaw-17e6O_zTaQdtn-24" value="sistema&amp;nbsp;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+        <mxCell id="EF7Yaw-17e6O_zTaQdtn-24" value="sistema&amp;nbsp;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#ffcc99;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="30" y="1180" width="80" height="140" as="geometry" />
         </mxCell>
         <mxCell id="EF7Yaw-17e6O_zTaQdtn-25" value="mostrar relatorio do que foi realizado ou não." style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
@@ -419,6 +416,9 @@
             <mxPoint x="60" y="1150" as="sourcePoint" />
             <mxPoint x="60" y="1010" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Jeshv5BYN8HyjylQYAHR-1" value="marca as tarefas que já foi realizadas&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="280" y="960" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
