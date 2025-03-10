@@ -470,6 +470,9 @@
         <mxCell id="sucTaZ8ZD6gKDqxddn5M-6" value="tarefas realizadas ou não&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="L4t82j5CoHo1pLr9jj2V-10">
           <mxGeometry x="10" y="167" width="160" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="j2sJv2lG3-AybuxqDqIe-1" value="mostrar as tarefas&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="L4t82j5CoHo1pLr9jj2V-10">
+          <mxGeometry x="10" y="207" width="120" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="sucTaZ8ZD6gKDqxddn5M-4" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="700" y="350" as="sourcePoint" />
