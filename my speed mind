@@ -843,6 +843,9 @@
             <mxPoint x="870" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="3Id0nesf9Fka-xiG25DH-34" value="diagrama de pacote" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="121" y="23" width="220" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
